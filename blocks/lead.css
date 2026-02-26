@@ -47,15 +47,11 @@
   }
 
   .lead__subtitle {
-    max-width: 720px;
     padding-top: 23px;
-    font-size: 30px;
-    line-height: 36px;
   }
 
   .lead__image {
     padding-top: 28px;
-    max-width: 100%;
   }
 }
 
@@ -64,10 +60,6 @@
     padding-top: 45px;
   }
 
-  .lead__container {
-    margin: auto;
-    max-width: 100%;
-  }
   .lead__title {
     max-width: 320px;
     font-size: 40px;
@@ -79,10 +71,5 @@
     padding-top: 13px;
     font-size: 16px;
     line-height: 20px;
-  }
-
-  .lead__image {
-    padding-top: 28px;
-    max-width: 100%;
   }
 }
