@@ -52,7 +52,7 @@
   cursor: pointer;
 }
 
-.place__content_wrap {
+.place__content-wrap {
   grid-area: content;
 }
 
@@ -141,7 +141,7 @@
     line-height: 35px;
   }
 
-  .place__artists_wrap {
+  .place__artists-wrap {
     justify-content: flex-start; /* En móvil el texto puede ir arriba */
     margin-bottom: 10px;
   }
