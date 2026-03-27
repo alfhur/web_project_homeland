@@ -33,6 +33,7 @@
   width: 100%; /* 100% de lead__container */
 }
 
+/* Vista PC */
 @media screen and (max-width: 1024px) {
   .lead {
     padding-top: 50px;

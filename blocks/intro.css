@@ -38,6 +38,7 @@
   line-height: 163%;
 }
 
+/* Vista PC */
 @media screen and (max-width: 1024px) {
   .intro__container {
     width: 100%;
